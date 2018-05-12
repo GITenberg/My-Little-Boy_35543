@@ -1,0 +1,42 @@
+_repo: My-Little-Boy_35543
+_version: 0.1.0
+alternative_title: Min lille dreng. English
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Mattos, Alexander Teixera de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewald, Carl
+    alias: Ewald, Karl
+    birthdate: 1856
+    deathdate: 1908
+    gutenberg_agent_id: '1711'
+    url: http://www.gutenberg.org/2009/agents/1711
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
+description: ''
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Denmark -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+title: My Little Boy
+url: http://www.gutenberg.org/ebooks/35543
